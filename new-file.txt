@@ -1,1 +1,3 @@
 Some new file
+
+new string
